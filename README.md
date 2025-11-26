@@ -23,7 +23,7 @@ Um simples sistema de agendamento de consultas em C.
 2. Compile o programa:
 
     ```bash
-    gcc sistema_agendamento_consultas.c -o sistema_agendamento_consultas
+    gcc agendamento.c -o sistema_agendamento_consultas 
     ```
 
 3. Execute o programa:
