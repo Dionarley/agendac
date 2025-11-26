@@ -17,7 +17,7 @@ Um simples sistema de agendamento de consultas em C.
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/sistema-agendamento-consultas.git
+    git clone https://github.com/Dionarley/agendac.git
     ```
 
 2. Compile o programa:
